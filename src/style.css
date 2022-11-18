@@ -1,0 +1,27 @@
+html{
+	background-color:#E93456;
+}
+
+#titulo{
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-family: Cooper black;
+	text-align: center;
+}
+
+div{
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+}
+
+#respuesta{
+	color: white;
+	font-family: Cooper black;
+	text-align: center;
+}
